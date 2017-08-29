@@ -1,0 +1,52 @@
+
+---Upload files---
+Widget file was not uploaded. Error: File is empty. Please upload something more substantial. This error could also be caused by uploads being disabled in your php.ini or by post_max_size being defined as smaller than upload_max_filesize in php.ini.
+
+---Upload files---
+Customizer file was not uploaded. Error: File is empty. Please upload something more substantial. This error could also be caused by uploads being disabled in your php.ini or by post_max_size being defined as smaller than upload_max_filesize in php.ini.
+
+---Upload files---
+Redux file was not uploaded. Error: File is empty. Please upload something more substantial. This error could also be caused by uploads being disabled in your php.ini or by post_max_size being defined as smaller than upload_max_filesize in php.ini.
+
+---Upload files---
+The import files were successfully uploaded!
+Initial max execution time = 180
+Files info:
+Site URL = http://localhost/wordpress
+Data file = /var/www/html/wordpress/wp-content/uploads/2017/08/common-5.xml
+Widget file = not defined!
+Customizer file = not defined!
+Redux files:
+not defined!
+
+------
+New AJAX call!
+[ERROR] Failed to import "Common-mistakes-850x566" (Media)
+[ERROR] Failed to import "p2" (Media)
+[ERROR] Failed to import "p3" (Media)
+[ERROR] Failed to import "p4" (Media)
+[ERROR] Failed to import "p5" (Media)
+[ERROR] Failed to import "p6" (Media)
+[ERROR] Failed to import "p7" (Media)
+[ERROR] Failed to import "p8" (Media)
+[ERROR] Failed to import "p1" (Media)
+[ERROR] Failed to import "T1" (Media)
+[ERROR] Failed to import "T2" (Media)
+[ERROR] Failed to import "T3" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "Common-mistakes-850x566" (Media)
+[ERROR] Failed to import "p2" (Media)
+[ERROR] Failed to import "p3" (Media)
+[ERROR] Failed to import "p4" (Media)
+[ERROR] Failed to import "p5" (Media)
+[ERROR] Failed to import "p6" (Media)
+[ERROR] Failed to import "p7" (Media)
+[ERROR] Failed to import "p8" (Media)
+[ERROR] Failed to import "p1" (Media)
+[ERROR] Failed to import "T1" (Media)
+[ERROR] Failed to import "T2" (Media)
+[ERROR] Failed to import "T3" (Media)
+

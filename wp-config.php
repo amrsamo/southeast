@@ -40,6 +40,10 @@ define('DB_COLLATE', '');
 /** Upload themes without FTP connection */
 define('FS_METHOD', 'direct');
 
+
+define('WP_HOME','http://localhost/wordpress');
+define('WP_SITEURL','http://localhost/wordpress');
+
 /**#@+
  * Authentication Unique Keys and Salts.
  *
