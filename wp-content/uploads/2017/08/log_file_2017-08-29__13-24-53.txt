@@ -1,0 +1,97 @@
+
+---Upload files---
+The import files were successfully uploaded!
+Initial max execution time = 180
+Files info:
+Site URL = http://localhost/wordpress
+Data file = /var/www/html/wordpress/wp-content/uploads/2017/08/common.xml_-2.gz
+Widget file = /var/www/html/wordpress/wp-content/uploads/2017/08/common-widgets-2.wie
+Customizer file = /var/www/html/wordpress/wp-content/uploads/2017/08/common-export-3.dat
+Redux files:
+test -> /var/www/html/wordpress/wp-content/uploads/2017/08/common_opt-1.json 
+
+
+---Importing widgets---
+Contact Body : 
+
+EM Contact Widget - No Title - Widget already exists
+EM Contact Widget - OUR &lt;span&gt;CONTACT&lt;/span&gt; - Widget already exists
+
+Blog Body : 
+
+EM Blog Widget - No Title - Widget already exists
+
+Team Body : 
+
+EM Team Widget - No Title - Widget already exists
+
+Project Body : 
+
+EM Portfolio Widget - No Title - Widget already exists
+
+Service Body : 
+
+Content - No Title - Widget already exists
+EM Pricing Widget - OUR &lt;span&gt;PRICING &lt;span&gt; - Widget already exists
+
+About Body : 
+
+EM Choose Us Widget - WHY &lt;span&gt;CHOOSE&lt;/span&gt; US - Widget already exists
+EM Team Widget - OUR &lt;span&gt;TEAM&lt;/span&gt; - Widget already exists
+EM Testimonial Widget - OUR &lt;span&gt;TESTIMONIAL&lt;/span&gt; - Widget already exists
+
+Home Body : 
+
+EM Slider Widget - No Title - Widget already exists
+EM Choose Us Widget - WHY &lt;span&gt;CHOOSE&lt;/span&gt; US - Widget already exists
+Content - No Title - Widget already exists
+EM Portfolio Widget - OUR &lt;span&gt;PORTFOLIO&lt;/span&gt; - Widget already exists
+EM Team Widget - OUR  &lt;span&gt;TEAM&lt;/span&gt; - Widget already exists
+EM Counter widget - No Title - Widget already exists
+EM Pricing Widget - OUR &lt;span&gt;PRICING&lt;/span&gt; - Widget already exists
+EM Testimonial Widget - No Title - Widget already exists
+EM Blog Widget - OUR &lt;span&gt;BLOG&lt;/span&gt; - Widget already exists
+EM Brand Logo Widget - No Title - Widget already exists
+EM Contact Widget - OUR &lt;span&gt;CONTACT&lt;/span&gt; - Widget already exists
+
+Blog Left Sidebar : 
+
+Search - No Title - Widget already exists
+Categories - No Title - Widget already exists
+Recent Posts - No Title - Widget already exists
+Archives - No Title - Widget already exists
+Meta - No Title - Widget already exists
+Tag Cloud - Popular Tags - Widget already exists
+
+Blog Right Sidebar : 
+
+Search - No Title - Widget already exists
+Categories - Category - Widget already exists
+Meta - No Title - Widget already exists
+Calendar - Calender - Widget already exists
+Common Recent Posts - No Title - Widget already exists
+Tag Cloud - Popular Tags - Widget already exists
+
+Footer 1 : 
+
+common: Address - Address - Widget already exists
+
+Footer 2 : 
+
+Custom Menu - Quick Link - Imported
+
+Footer 3 : 
+
+Custom Menu - Quick Contact - Imported
+
+Footer 4 : 
+
+MailChimp Sign-Up Form - Newsletter - Widget already exists
+
+
+
+---Importing Redux settings---
+The Redux option name: test, was not found in this WP site, so it was not imported!
+
+---Importing customizer settings---
+Customizer settings import finished!

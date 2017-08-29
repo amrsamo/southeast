@@ -1,0 +1,1530 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-07-25 11:31+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/"
+
+#: 404.php:38 includes/common-breadcrumb.php:36
+msgid "404"
+msgstr ""
+
+#: 404.php:39
+msgid "Oops! The page you are Looking for does not exist."
+msgstr ""
+
+#: 404.php:42
+msgid "Take me back to the home page"
+msgstr ""
+
+#. Name of the template
+msgid "Layers Template"
+msgstr ""
+
+#: comments.php:29 comments.php:61
+msgid "Comment navigation"
+msgstr ""
+
+#: comments.php:32 comments.php:64
+msgid "Older Comments"
+msgstr ""
+
+#: comments.php:33 comments.php:65
+msgid "Newer Comments"
+msgstr ""
+
+#: comments.php:43
+#, php-format
+msgctxt "comments title"
+msgid "One Comment"
+msgid_plural "%1$s Comments"
+msgstr[0] ""
+msgstr[1] ""
+
+#: comments.php:78
+msgid "Comments are closed."
+msgstr ""
+
+#: footer.php:43 header.php:47 header.php:82 header.php:116 header.php:182
+#: header.php:217 header.php:265 header.php:285
+msgid "mailto:"
+msgstr ""
+
+#: footer.php:46 header.php:44 header.php:79 header.php:113 header.php:179
+#: header.php:214 header.php:262 header.php:282
+msgid "tel:"
+msgstr ""
+
+#: footer.php:322
+msgid "Copyright &copy; common All Rights Reserved."
+msgstr ""
+
+#: functions.php:28
+msgid "One Page Menu"
+msgstr ""
+
+#: functions.php:29
+msgid "Mobile Menu"
+msgstr ""
+
+#. If there are characters in your language that are not
+#. supported by raleway, translate this to 'off'. Do not translate
+#. into your own language.
+#: functions.php:104
+msgctxt "Raleway font: on or off"
+msgid "on"
+msgstr ""
+
+#: functions.php:105
+msgctxt "Poppins font: on or off"
+msgid "on"
+msgstr ""
+
+#. Name of the template
+#: functions.php:288
+msgid "Blog Left Sidebar"
+msgstr ""
+
+#: functions.php:290 functions.php:299 functions.php:308 functions.php:317
+msgid "Add widgets here."
+msgstr ""
+
+#. Name of the template
+#: functions.php:297
+msgid "Blog Right Sidebar"
+msgstr ""
+
+#. Name of the template
+#: functions.php:306
+msgid "Page Left Sidebar"
+msgstr ""
+
+#. Name of the template
+#: functions.php:315
+msgid "Page Right Sidebar"
+msgstr ""
+
+#: search.php:45
+msgid "No Any Posts Found"
+msgstr ""
+
+#: search.php:46
+msgid ""
+"There are no posts which match your query, please try a different search "
+"term."
+msgstr ""
+
+#: searchform.php:3
+msgid "Type Your Keyword"
+msgstr ""
+
+#: searchform.php:3
+msgid "Search for:"
+msgstr ""
+
+#. Name of the template
+msgid "Blog Grid"
+msgstr ""
+
+#. Name of the template
+msgid "Blog Left Sidebar 2column"
+msgstr ""
+
+#. Name of the template
+msgid "Blog Right Sidebar 2column"
+msgstr ""
+
+#. Name of the template
+msgid "Blog List"
+msgstr ""
+
+#. Name of the template
+msgid "Blog Both Sidebar"
+msgstr ""
+
+#: includes/common-breadcrumb.php:11
+msgid "Blog"
+msgstr ""
+
+#: includes/common-breadcrumb.php:30
+msgid "Home"
+msgstr ""
+
+#: includes/common-breadcrumb.php:31 includes/common-breadcrumb.php:32
+#: includes/common-breadcrumb.php:33 includes/common-breadcrumb.php:34
+#: includes/common-breadcrumb.php:35
+#, php-format
+msgid "%s"
+msgstr ""
+
+#: includes/common-breadcrumb.php:142
+msgid " "
+msgstr ""
+
+#: includes/common-global-function.php:8
+msgid "Create Menu"
+msgstr ""
+
+#: includes/common-global-function.php:136
+msgid "Logout"
+msgstr ""
+
+#: includes/common-global-function.php:139
+msgid "Login"
+msgstr ""
+
+#: includes/common-global-function.php:140
+msgid "Register"
+msgstr ""
+
+#: includes/common-global-function.php:214
+msgid "Name"
+msgstr ""
+
+#: includes/common-global-function.php:220
+msgid "E-mail Address"
+msgstr ""
+
+#: includes/common-global-function.php:226
+msgid "Website"
+msgstr ""
+
+#: includes/common-global-function.php:230
+#: includes/common-global-function.php:243
+msgid "Comment"
+msgstr ""
+
+#: includes/common-global-function.php:246
+msgid "Post Comment"
+msgstr ""
+
+#: includes/common-global-function.php:249
+msgid "POST YOUR COMMENT "
+msgstr ""
+
+#: includes/common-global-function.php:284
+msgid "REPLY"
+msgstr ""
+
+#: includes/common-global-function.php:287
+msgid "(Edit)"
+msgstr ""
+
+#: includes/common-metaboxs.php:15
+msgid "Breadcumb Option"
+msgstr ""
+
+#: includes/common-metaboxs.php:21
+msgid "Page Title"
+msgstr ""
+
+#: includes/common-metaboxs.php:25 includes/common-metaboxs.php:47
+msgid "Show Title"
+msgstr ""
+
+#: includes/common-metaboxs.php:26 includes/common-metaboxs.php:48
+msgid "Hide Title"
+msgstr ""
+
+#: includes/common-metaboxs.php:33
+msgid "Breadcrumb"
+msgstr ""
+
+#: includes/common-metaboxs.php:37
+msgid "Show breadcrumb"
+msgstr ""
+
+#: includes/common-metaboxs.php:38
+msgid "Hide breadcrumb"
+msgstr ""
+
+#: includes/common-metaboxs.php:43
+msgid "Breadcrumb Title"
+msgstr ""
+
+#: includes/common-metaboxs.php:53
+msgid "Page Breadcrumb Image"
+msgstr ""
+
+#: includes/common-metaboxs.php:55
+msgid "insert image here"
+msgstr ""
+
+#: includes/common-metaboxs.php:59
+msgid "Text Align"
+msgstr ""
+
+#: includes/common-metaboxs.php:60 includes/common-metaboxs.php:73
+msgid "Select an option"
+msgstr ""
+
+#: includes/common-metaboxs.php:66
+msgid "Align Left"
+msgstr ""
+
+#: includes/common-metaboxs.php:67
+msgid "Align Middle"
+msgstr ""
+
+#: includes/common-metaboxs.php:68
+msgid "Alige Right"
+msgstr ""
+
+#: includes/common-metaboxs.php:72
+msgid "Text Transform"
+msgstr ""
+
+#: includes/common-metaboxs.php:79
+msgid "Transform lowercase"
+msgstr ""
+
+#: includes/common-metaboxs.php:80
+msgid "Transform uppercase"
+msgstr ""
+
+#: includes/common-metaboxs.php:81
+msgid "Transform capitalize"
+msgstr ""
+
+#: includes/common-metaboxs.php:87
+msgid "Team Option"
+msgstr ""
+
+#: includes/common-metaboxs.php:92
+msgid "Designation"
+msgstr ""
+
+#: includes/common-metaboxs.php:93
+msgid "insert designation here"
+msgstr ""
+
+#: includes/common-metaboxs.php:98
+msgid "Show/Hide Social Icon"
+msgstr ""
+
+#: includes/common-metaboxs.php:103
+msgid "Show Social Icon"
+msgstr ""
+
+#: includes/common-metaboxs.php:104
+msgid "Hide Social Icon"
+msgstr ""
+
+#: includes/common-metaboxs.php:111
+msgid "Add Social Icon --------"
+msgstr ""
+
+#: includes/common-metaboxs.php:113
+msgid "Social Icon {#}"
+msgstr ""
+
+#: includes/common-metaboxs.php:114
+msgid "Add Another Icon"
+msgstr ""
+
+#: includes/common-metaboxs.php:115
+msgid "Remove Icon"
+msgstr ""
+
+#: includes/common-metaboxs.php:121
+msgid "Social Icon"
+msgstr ""
+
+#: includes/common-metaboxs.php:122
+msgid "insert Icon"
+msgstr ""
+
+#: includes/common-metaboxs.php:127
+msgid "Enter Link"
+msgstr ""
+
+#: includes/common-metaboxs.php:128
+msgid "insert link here"
+msgstr ""
+
+#: includes/common-metaboxs.php:137
+msgid "Testimonial Option"
+msgstr ""
+
+#: includes/common-metaboxs.php:142
+msgid "Rating Style"
+msgstr ""
+
+#: includes/common-metaboxs.php:147
+msgid "Select Rating"
+msgstr ""
+
+#: includes/common-metaboxs.php:148
+msgid "Rating 1 Star"
+msgstr ""
+
+#: includes/common-metaboxs.php:149
+msgid "Rating 2 Star"
+msgstr ""
+
+#: includes/common-metaboxs.php:150
+msgid "Rating 3 Star"
+msgstr ""
+
+#: includes/common-metaboxs.php:151
+msgid "Rating 4 Star"
+msgstr ""
+
+#: includes/common-metaboxs.php:152
+msgid "Rating 5 Star"
+msgstr ""
+
+#: includes/common-metaboxs.php:157
+msgid "Degignation"
+msgstr ""
+
+#: includes/common-metaboxs.php:158
+msgid "insert Degignation here"
+msgstr ""
+
+#: includes/common-metaboxs.php:169
+msgid "Portfolio Option"
+msgstr ""
+
+#: includes/common-metaboxs.php:176
+msgid "Show/Hide All Option"
+msgstr ""
+
+#: includes/common-metaboxs.php:180 includes/common-metaboxs.php:190
+#: includes/common-metaboxs.php:200 includes/common-metaboxs.php:210
+#: includes/common-metaboxs.php:226 includes/common-metaboxs.php:243
+#: includes/common-metaboxs.php:259 includes/common-metaboxs.php:269
+msgid "Show"
+msgstr ""
+
+#: includes/common-metaboxs.php:181 includes/common-metaboxs.php:191
+#: includes/common-metaboxs.php:201 includes/common-metaboxs.php:211
+#: includes/common-metaboxs.php:227 includes/common-metaboxs.php:244
+#: includes/common-metaboxs.php:260 includes/common-metaboxs.php:270
+msgid "Hide"
+msgstr ""
+
+#: includes/common-metaboxs.php:186
+msgid "Show/Hide Popup Image"
+msgstr ""
+
+#: includes/common-metaboxs.php:196
+msgid "Show/Hide Link Page"
+msgstr ""
+
+#: includes/common-metaboxs.php:206
+msgid "Show/Hide Popup Youtube"
+msgstr ""
+
+#: includes/common-metaboxs.php:216
+msgid "Youtube Video"
+msgstr ""
+
+#: includes/common-metaboxs.php:217 includes/common-metaboxs.php:233
+msgid "insert video link. ex-https://youtu.be/OJ9ejTy4J98"
+msgstr ""
+
+#: includes/common-metaboxs.php:222
+msgid "Show/Hide Popup Vimeo"
+msgstr ""
+
+#: includes/common-metaboxs.php:232
+msgid "Vimeo Video"
+msgstr ""
+
+#: includes/common-metaboxs.php:239
+msgid "Select Multi Gellary"
+msgstr ""
+
+#: includes/common-metaboxs.php:249
+msgid "Multiple Gellary Image"
+msgstr ""
+
+#: includes/common-metaboxs.php:250
+msgid "insert multiple gellary image here for single page"
+msgstr ""
+
+#: includes/common-metaboxs.php:255
+msgid "Show/Hide Title"
+msgstr ""
+
+#: includes/common-metaboxs.php:265
+msgid "Show/Hide Category"
+msgstr ""
+
+#: includes/common-metaboxs.php:280 includes/common-metaboxs.php:336
+msgid "Price Option"
+msgstr ""
+
+#: includes/common-metaboxs.php:285
+msgid "Price Currency"
+msgstr ""
+
+#: includes/common-metaboxs.php:286
+msgid "insert Currency here e.g $"
+msgstr ""
+
+#: includes/common-metaboxs.php:291
+msgid "Price Amount"
+msgstr ""
+
+#: includes/common-metaboxs.php:292
+msgid "insert Amount here"
+msgstr ""
+
+#: includes/common-metaboxs.php:297
+msgid "Price Delay"
+msgstr ""
+
+#: includes/common-metaboxs.php:298
+msgid "insert Year, Month, Week or Day here"
+msgstr ""
+
+#: includes/common-metaboxs.php:303
+msgid "pricing content"
+msgstr ""
+
+#: includes/common-metaboxs.php:304
+msgid "insert pricing Item"
+msgstr ""
+
+#: includes/common-metaboxs.php:310
+msgid "Button Text"
+msgstr ""
+
+#: includes/common-metaboxs.php:311
+msgid "Insert Text Here"
+msgstr ""
+
+#: includes/common-metaboxs.php:316
+msgid "Button Link"
+msgstr ""
+
+#: includes/common-metaboxs.php:317
+msgid "Insert register Link"
+msgstr ""
+
+#: includes/common-metaboxs.php:322
+msgid "Active Class"
+msgstr ""
+
+#: includes/common-metaboxs.php:323
+msgid "Add Active Class here \"active\""
+msgstr ""
+
+#: includes/common-metaboxs.php:341
+msgid "Brand Logo Link"
+msgstr ""
+
+#: includes/common-metaboxs.php:342
+msgid "insert Link here"
+msgstr ""
+
+#: includes/common-metaboxs.php:351
+msgid "Slider Option"
+msgstr ""
+
+#: includes/common-metaboxs.php:358
+msgid "Title"
+msgstr ""
+
+#: includes/common-metaboxs.php:359
+msgid "insert title here"
+msgstr ""
+
+#: includes/common-metaboxs.php:364
+msgid "Sub Title"
+msgstr ""
+
+#: includes/common-metaboxs.php:365
+msgid "insert sub-title here"
+msgstr ""
+
+#: includes/common-metaboxs.php:370
+msgid "Sub Title Highlight Text"
+msgstr ""
+
+#: includes/common-metaboxs.php:371
+msgid "insert sub-title highlight text here"
+msgstr ""
+
+#: includes/common-metaboxs.php:376
+msgid "Content"
+msgstr ""
+
+#: includes/common-metaboxs.php:377
+msgid "insert content here"
+msgstr ""
+
+#: includes/common-metaboxs.php:382
+msgid "Button Text 1"
+msgstr ""
+
+#: includes/common-metaboxs.php:383 includes/common-metaboxs.php:395
+msgid "insert button text here"
+msgstr ""
+
+#: includes/common-metaboxs.php:388
+msgid "Button url 1"
+msgstr ""
+
+#: includes/common-metaboxs.php:389 includes/common-metaboxs.php:401
+msgid "insert button text url here"
+msgstr ""
+
+#: includes/common-metaboxs.php:394
+msgid "Button Text 2"
+msgstr ""
+
+#: includes/common-metaboxs.php:400
+msgid "Button url 2"
+msgstr ""
+
+#: includes/common-metaboxs.php:406
+msgid "Text Alignment Style"
+msgstr ""
+
+#: includes/common-metaboxs.php:411
+msgid "Select alignment"
+msgstr ""
+
+#: includes/common-metaboxs.php:412
+msgid "Left Alignment"
+msgstr ""
+
+#: includes/common-metaboxs.php:413
+msgid "Center Alignment"
+msgstr ""
+
+#: includes/common-metaboxs.php:414
+msgid "Right Alignment"
+msgstr ""
+
+#: includes/common-metaboxs.php:419
+msgid "Background Color"
+msgstr ""
+
+#: includes/common-metaboxs.php:420
+msgid "insert bg color here"
+msgstr ""
+
+#: includes/common-metaboxs.php:426
+msgid "Background Image"
+msgstr ""
+
+#: includes/common-metaboxs.php:427
+msgid "Upload an image or enter an URL."
+msgstr ""
+
+#: includes/common-metaboxs.php:432 includes/common-option-framework.php:1177
+msgid "Title Color"
+msgstr ""
+
+#: includes/common-metaboxs.php:433
+msgid "insert title color here"
+msgstr ""
+
+#: includes/common-metaboxs.php:438 includes/common-option-framework.php:1186
+msgid "Sub Title Color"
+msgstr ""
+
+#: includes/common-metaboxs.php:439
+msgid "insert sub title color here"
+msgstr ""
+
+#: includes/common-metaboxs.php:444
+msgid "Highlight Text Color"
+msgstr ""
+
+#: includes/common-metaboxs.php:445
+msgid "insert sub title  highlight text color here"
+msgstr ""
+
+#: includes/common-metaboxs.php:450
+msgid "Content Color"
+msgstr ""
+
+#: includes/common-metaboxs.php:451
+msgid "insert content color here"
+msgstr ""
+
+#: includes/common-option-framework.php:35
+#: includes/common-option-framework.php:36
+msgid "Theme Options"
+msgstr ""
+
+#: includes/common-option-framework.php:156
+msgid "General"
+msgstr ""
+
+#: includes/common-option-framework.php:158
+msgid "Wellcome Our Theme Option"
+msgstr ""
+
+#: includes/common-option-framework.php:166
+msgid "Header area"
+msgstr ""
+
+#: includes/common-option-framework.php:168
+msgid "Header options. All Menu OFF, It Show Default Menu"
+msgstr ""
+
+#: includes/common-option-framework.php:175
+msgid "All Header Hide"
+msgstr ""
+
+#: includes/common-option-framework.php:181
+msgid "Header Top"
+msgstr ""
+
+#: includes/common-option-framework.php:187
+msgid "Header One Page Menu"
+msgstr ""
+
+#: includes/common-option-framework.php:193
+msgid "Header Transparent With One Page Menu"
+msgstr ""
+
+#: includes/common-option-framework.php:199
+msgid "Header Transparent Menu"
+msgstr ""
+
+#: includes/common-option-framework.php:205
+msgid "Header Transparent With Sticky Menu"
+msgstr ""
+
+#: includes/common-option-framework.php:211
+msgid "Header Default Menu"
+msgstr ""
+
+#: includes/common-option-framework.php:217
+msgid "Select Top Header layout"
+msgstr ""
+
+#: includes/common-option-framework.php:220
+#: includes/common-option-framework.php:231
+#: includes/common-option-framework.php:1277
+msgid "Box Layout"
+msgstr ""
+
+#: includes/common-option-framework.php:221
+#: includes/common-option-framework.php:232
+#: includes/common-option-framework.php:1278
+msgid "Full Layout"
+msgstr ""
+
+#: includes/common-option-framework.php:228
+msgid "Select Header Menu layout"
+msgstr ""
+
+#: includes/common-option-framework.php:243
+msgid "Header Top Section"
+msgstr ""
+
+#: includes/common-option-framework.php:245
+msgid "Insert header top info"
+msgstr ""
+
+#: includes/common-option-framework.php:252
+msgid "Select Top Header Style"
+msgstr ""
+
+#: includes/common-option-framework.php:255
+msgid "Right Side Icon"
+msgstr ""
+
+#: includes/common-option-framework.php:256
+msgid "Wellcome Style 1"
+msgstr ""
+
+#: includes/common-option-framework.php:257
+msgid "Left Side Icon"
+msgstr ""
+
+#: includes/common-option-framework.php:258
+msgid "Wellcome Style 2"
+msgstr ""
+
+#: includes/common-option-framework.php:259
+msgid "Right Side Menu"
+msgstr ""
+
+#: includes/common-option-framework.php:260
+msgid "Left Side Menu"
+msgstr ""
+
+#: includes/common-option-framework.php:261
+msgid "Middle Social Icon"
+msgstr ""
+
+#: includes/common-option-framework.php:268
+msgid "Address Name"
+msgstr ""
+
+#: includes/common-option-framework.php:269
+msgid "insert name ex:- house, road-4."
+msgstr ""
+
+#: includes/common-option-framework.php:270
+msgid "1st Floor New World."
+msgstr ""
+
+#: includes/common-option-framework.php:275
+#: includes/common-option-framework.php:1332
+msgid "Email Number"
+msgstr ""
+
+#: includes/common-option-framework.php:276
+#: includes/common-option-framework.php:1333
+msgid "Insert email number"
+msgstr ""
+
+#: includes/common-option-framework.php:277
+#: includes/common-option-framework.php:1334
+msgid "youremail@common.com"
+msgstr ""
+
+#: includes/common-option-framework.php:282
+#: includes/common-option-framework.php:1339
+msgid "Phone Number"
+msgstr ""
+
+#: includes/common-option-framework.php:283
+#: includes/common-option-framework.php:1340
+msgid "Insert phone number"
+msgstr ""
+
+#: includes/common-option-framework.php:284
+msgid "+998556778345"
+msgstr ""
+
+#: includes/common-option-framework.php:289
+msgid "Wellcome Text"
+msgstr ""
+
+#: includes/common-option-framework.php:290
+msgid "Insert text"
+msgstr ""
+
+#: includes/common-option-framework.php:291
+msgid "wellcome visit our site"
+msgstr ""
+
+#: includes/common-option-framework.php:296
+#: includes/common-option-framework.php:1364
+msgid "Address Text Color"
+msgstr ""
+
+#: includes/common-option-framework.php:307
+msgid "Address Text Hover Color"
+msgstr ""
+
+#: includes/common-option-framework.php:319
+msgid "Wellcome Text Color"
+msgstr ""
+
+#: includes/common-option-framework.php:328
+msgid "Header Top Section BG Color"
+msgstr ""
+
+#: includes/common-option-framework.php:344
+#: includes/common-option-framework.php:1389
+#: includes/common-option-framework.php:1539
+#: includes/common-option-framework.php:1642
+#: includes/common-option-framework.php:1727
+msgid "Padding Option"
+msgstr ""
+
+#: includes/common-option-framework.php:345
+#: includes/common-option-framework.php:1390
+#: includes/common-option-framework.php:1540
+#: includes/common-option-framework.php:1643
+#: includes/common-option-framework.php:1728
+msgid "Allow your users to choose the spacing padding they want."
+msgstr ""
+
+#: includes/common-option-framework.php:346
+#: includes/common-option-framework.php:598
+#: includes/common-option-framework.php:690
+#: includes/common-option-framework.php:1217
+#: includes/common-option-framework.php:1391
+#: includes/common-option-framework.php:1541
+#: includes/common-option-framework.php:1644
+#: includes/common-option-framework.php:1729
+msgid ""
+"You can enable or disable any piece of this field. Top, Right, Bottom, Left, "
+"or Units."
+msgstr ""
+
+#: includes/common-option-framework.php:361
+#: includes/common-option-framework.php:363
+msgid "Header Logo"
+msgstr ""
+
+#: includes/common-option-framework.php:370
+msgid "Default Logo"
+msgstr ""
+
+#: includes/common-option-framework.php:373
+#: includes/common-option-framework.php:381
+#: includes/common-option-framework.php:389
+msgid "Upload logo here."
+msgstr ""
+
+#: includes/common-option-framework.php:378
+msgid "One Page Menu Logo"
+msgstr ""
+
+#: includes/common-option-framework.php:386
+msgid "Transparent Menu Logo"
+msgstr ""
+
+#: includes/common-option-framework.php:394
+msgid "Logo Height"
+msgstr ""
+
+#: includes/common-option-framework.php:396
+msgid "Set height ex-100px"
+msgstr ""
+
+#: includes/common-option-framework.php:401
+msgid "Logo Width"
+msgstr ""
+
+#: includes/common-option-framework.php:403
+msgid "Set Width ex-100px"
+msgstr ""
+
+#: includes/common-option-framework.php:408
+msgid "Create logo spacing massing"
+msgstr ""
+
+#: includes/common-option-framework.php:410
+msgid "Set number default-37px"
+msgstr ""
+
+#: includes/common-option-framework.php:417
+msgid "Mobile Image Logo"
+msgstr ""
+
+#: includes/common-option-framework.php:420
+msgid "Upload logo here. recommend size:- 112x38px."
+msgstr ""
+
+#: includes/common-option-framework.php:431
+msgid "Header Menu"
+msgstr ""
+
+#: includes/common-option-framework.php:439
+msgid "Select Header Menu Style"
+msgstr ""
+
+#: includes/common-option-framework.php:442
+msgid "Logo Left Style"
+msgstr ""
+
+#: includes/common-option-framework.php:443
+msgid "Logo Right Style"
+msgstr ""
+
+#: includes/common-option-framework.php:444
+msgid "Logo Top Style"
+msgstr ""
+
+#: includes/common-option-framework.php:451
+msgid "Main Menu Section BG Color"
+msgstr ""
+
+#: includes/common-option-framework.php:465
+msgid "Menu Font style"
+msgstr ""
+
+#: includes/common-option-framework.php:473
+#: includes/common-option-framework.php:565
+#: includes/common-option-framework.php:663
+#: includes/common-option-framework.php:728
+#: includes/common-option-framework.php:748
+msgid "Typography option with each property can be called individually."
+msgstr ""
+
+#: includes/common-option-framework.php:486
+msgid "Main Munu Hover Text Color"
+msgstr ""
+
+#: includes/common-option-framework.php:501
+msgid "Main Menu Sticky BG Color"
+msgstr ""
+
+#: includes/common-option-framework.php:519
+msgid "Main Menu Sticky Text Color"
+msgstr ""
+
+#: includes/common-option-framework.php:531
+msgid "Main Menu Sticky Current Text Color"
+msgstr ""
+
+#: includes/common-option-framework.php:546
+msgid "Sub Menu BG Color"
+msgstr ""
+
+#: includes/common-option-framework.php:558
+msgid "Sub Menu Font style"
+msgstr ""
+
+#: includes/common-option-framework.php:579
+msgid "Sub Menu Hover Text Color"
+msgstr ""
+
+#: includes/common-option-framework.php:596
+#: includes/common-option-framework.php:1215
+msgid "Section Padding Option"
+msgstr ""
+
+#: includes/common-option-framework.php:597
+#: includes/common-option-framework.php:1216
+msgid "Allow your users to choose the spacing or padding they want."
+msgstr ""
+
+#: includes/common-option-framework.php:621
+msgid "Breadcrumb Area"
+msgstr ""
+
+#: includes/common-option-framework.php:628
+msgid ""
+"Notice:- If you want to more breadrucmb control. Please see every page "
+"bottom area. We Added More Field Here"
+msgstr ""
+
+#: includes/common-option-framework.php:634
+msgid "Breadcrumb Background"
+msgstr ""
+
+#: includes/common-option-framework.php:635
+msgid "Breadcrumb background with image, color."
+msgstr ""
+
+#: includes/common-option-framework.php:643
+msgid "Breadcrumb Title Color"
+msgstr ""
+
+#: includes/common-option-framework.php:652
+msgid "Breadcrumb Text And Font style"
+msgstr ""
+
+#: includes/common-option-framework.php:675
+msgid "Breadcrumb Current Text Color"
+msgstr ""
+
+#: includes/common-option-framework.php:688
+msgid "Padding/Margin Option"
+msgstr ""
+
+#: includes/common-option-framework.php:689
+msgid "Allow your users to choose the spacing or margin they want."
+msgstr ""
+
+#: includes/common-option-framework.php:711
+msgid "Typography Area"
+msgstr ""
+
+#: includes/common-option-framework.php:719
+msgid "Body Typography Style"
+msgstr ""
+
+#: includes/common-option-framework.php:739
+msgid "Heading Typography Style"
+msgstr ""
+
+#: includes/common-option-framework.php:773
+msgid "Theme Colors"
+msgstr ""
+
+#: includes/common-option-framework.php:781
+msgid "Button Primary Text Color"
+msgstr ""
+
+#: includes/common-option-framework.php:799
+msgid "Button Primary BG Color"
+msgstr ""
+
+#: includes/common-option-framework.php:815
+msgid "Button Primary Border Color"
+msgstr ""
+
+#: includes/common-option-framework.php:831
+msgid "Button Primary Hover Text Color"
+msgstr ""
+
+#: includes/common-option-framework.php:850
+msgid "Button Primary BG Hover Color"
+msgstr ""
+
+#: includes/common-option-framework.php:880
+msgid "Button Second Text Color"
+msgstr ""
+
+#: includes/common-option-framework.php:894
+msgid "Button Second Hover Text Color"
+msgstr ""
+
+#: includes/common-option-framework.php:905
+msgid "Button Second BG Hover Color"
+msgstr ""
+
+#: includes/common-option-framework.php:921
+msgid "Theme Brand Text Color"
+msgstr ""
+
+#: includes/common-option-framework.php:939
+msgid "Theme Brand BG Color"
+msgstr ""
+
+#: includes/common-option-framework.php:952
+msgid "Theme Brand Hover Text Color"
+msgstr ""
+
+#: includes/common-option-framework.php:966
+msgid "Theme Brand Hover BG Color"
+msgstr ""
+
+#: includes/common-option-framework.php:989
+msgid "Section Title Highlight Color"
+msgstr ""
+
+#: includes/common-option-framework.php:1014
+msgid "Blog Area"
+msgstr ""
+
+#: includes/common-option-framework.php:1022
+msgid "Blog Item BG Color"
+msgstr ""
+
+#: includes/common-option-framework.php:1023
+#: includes/common-option-framework.php:1056
+msgid "BG color"
+msgstr ""
+
+#: includes/common-option-framework.php:1032
+msgid "Blog Title Color"
+msgstr ""
+
+#: includes/common-option-framework.php:1044
+msgid "Blog Title Hover Color"
+msgstr ""
+
+#: includes/common-option-framework.php:1055
+msgid "Blog Sidebar BG Color"
+msgstr ""
+
+#: includes/common-option-framework.php:1064
+msgid "Sidebar Title Text Color"
+msgstr ""
+
+#: includes/common-option-framework.php:1073
+msgid "Sidebar Text Color"
+msgstr ""
+
+#: includes/common-option-framework.php:1095
+msgid "Sidebar Text Hover Color"
+msgstr ""
+
+#: includes/common-option-framework.php:1106
+msgid "Single Blog Social Icon Color"
+msgstr ""
+
+#: includes/common-option-framework.php:1116
+msgid "Single Blog Social Icon Hover Color"
+msgstr ""
+
+#: includes/common-option-framework.php:1127
+msgid "Pagination Text Color"
+msgstr ""
+
+#: includes/common-option-framework.php:1138
+msgid "Pagination Hover Color"
+msgstr ""
+
+#: includes/common-option-framework.php:1159
+msgid "404 Area"
+msgstr ""
+
+#: includes/common-option-framework.php:1161
+msgid "Use this section to upload background images, select background color"
+msgstr ""
+
+#: includes/common-option-framework.php:1168
+msgid "404 Page Background Color"
+msgstr ""
+
+#: includes/common-option-framework.php:1169
+msgid "404 background with image, color."
+msgstr ""
+
+#: includes/common-option-framework.php:1195
+msgid "Retrun Link Color"
+msgstr ""
+
+#: includes/common-option-framework.php:1204
+msgid "404 Information"
+msgstr ""
+
+#: includes/common-option-framework.php:1205
+#: includes/common-option-framework.php:1681
+msgid "HTML tags allowed: a, br, em, strong"
+msgstr ""
+
+#: includes/common-option-framework.php:1206
+msgid "404 Oops! The page you are Looking for does not exist. "
+msgstr ""
+
+#: includes/common-option-framework.php:1242
+msgid "Footer Area"
+msgstr ""
+
+#: includes/common-option-framework.php:1244
+msgid "Insert style for top address area"
+msgstr ""
+
+#: includes/common-option-framework.php:1250
+msgid "Footer Address Section Show/Hide"
+msgstr ""
+
+#: includes/common-option-framework.php:1256
+msgid "Social Section Show/Hide"
+msgstr ""
+
+#: includes/common-option-framework.php:1262
+msgid "Widget Section Hide/show"
+msgstr ""
+
+#: includes/common-option-framework.php:1268
+msgid "Copyright Section Show/Hide"
+msgstr ""
+
+#: includes/common-option-framework.php:1274
+msgid "Select Footer layout"
+msgstr ""
+
+#: includes/common-option-framework.php:1290
+msgid "Footer Address Section"
+msgstr ""
+
+#: includes/common-option-framework.php:1299
+#: includes/common-option-framework.php:1412
+msgid "Select Logo Style"
+msgstr ""
+
+#: includes/common-option-framework.php:1302
+#: includes/common-option-framework.php:1415
+msgid "Show Text Logo"
+msgstr ""
+
+#: includes/common-option-framework.php:1303
+#: includes/common-option-framework.php:1416
+msgid "Show Image Logo"
+msgstr ""
+
+#: includes/common-option-framework.php:1311
+msgid "Address Title Text Logo"
+msgstr ""
+
+#: includes/common-option-framework.php:1312
+#: includes/common-option-framework.php:1425
+msgid "C<span>O</span>M<span>M</span>O<span>N</span>"
+msgstr ""
+
+#: includes/common-option-framework.php:1317
+msgid "Address Image Logo"
+msgstr ""
+
+#: includes/common-option-framework.php:1320
+#: includes/common-option-framework.php:1433
+msgid ""
+"Upload logo here. recommend size:- 220x50px. Notice:- If you upload this "
+"logo, Title text logo will be hide "
+msgstr ""
+
+#: includes/common-option-framework.php:1325
+msgid "Address Area Name"
+msgstr ""
+
+#: includes/common-option-framework.php:1326
+msgid "insert area name ex:- house, road-4."
+msgstr ""
+
+#: includes/common-option-framework.php:1327
+msgid "1st Floor New World Tower Rang."
+msgstr ""
+
+#: includes/common-option-framework.php:1341
+msgid "+998 556 778 345"
+msgstr ""
+
+#: includes/common-option-framework.php:1346
+msgid "Address Title Text Color"
+msgstr ""
+
+#: includes/common-option-framework.php:1355
+msgid "Address Title Text Color 2"
+msgstr ""
+
+#: includes/common-option-framework.php:1373
+msgid "Address Section BG Color"
+msgstr ""
+
+#: includes/common-option-framework.php:1404
+msgid " Footer Social Section"
+msgstr ""
+
+#: includes/common-option-framework.php:1424
+msgid "Social Title Text Logo"
+msgstr ""
+
+#: includes/common-option-framework.php:1430
+msgid "Social Image Logo"
+msgstr ""
+
+#: includes/common-option-framework.php:1438
+msgid "Social information"
+msgstr ""
+
+#: includes/common-option-framework.php:1439
+msgid ""
+"Praesent ornare ipsum at nulla pulvinar, imperdiet hendrerit suscipit "
+"Praesent ornare ipsum at nulla pulvinar, imperdiet hendrerit dui suscipit "
+"Praesent ornare m. a. hossain"
+msgstr ""
+
+#: includes/common-option-framework.php:1449
+msgid "Insert Social Icons"
+msgstr ""
+
+#: includes/common-option-framework.php:1450
+msgid "Enter social links"
+msgstr ""
+
+#: includes/common-option-framework.php:1451
+msgid "Drag/drop to re-arrange"
+msgstr ""
+
+#: includes/common-option-framework.php:1486
+msgid "Social Title Text Color"
+msgstr ""
+
+#: includes/common-option-framework.php:1495
+msgid "Social Title Text Color 2"
+msgstr ""
+
+#: includes/common-option-framework.php:1504
+msgid "Social Text Color"
+msgstr ""
+
+#: includes/common-option-framework.php:1513
+msgid "Social Icon Color"
+msgstr ""
+
+#: includes/common-option-framework.php:1523
+msgid "Social Section BG Color"
+msgstr ""
+
+#: includes/common-option-framework.php:1555
+msgid "Footer Widget Section"
+msgstr ""
+
+#: includes/common-option-framework.php:1563
+msgid "Widget Column Count"
+msgstr ""
+
+#: includes/common-option-framework.php:1566
+msgid "Column 1"
+msgstr ""
+
+#: includes/common-option-framework.php:1567
+msgid "Column 2"
+msgstr ""
+
+#: includes/common-option-framework.php:1568
+msgid "Column 3"
+msgstr ""
+
+#: includes/common-option-framework.php:1569
+msgid "Column 4"
+msgstr ""
+
+#: includes/common-option-framework.php:1570
+msgid "Column 6"
+msgstr ""
+
+#: includes/common-option-framework.php:1577
+msgid "Widget Title Text Color"
+msgstr ""
+
+#: includes/common-option-framework.php:1586
+msgid "Widget Text Color"
+msgstr ""
+
+#: includes/common-option-framework.php:1612
+msgid "Widget Text Hover Color"
+msgstr ""
+
+#: includes/common-option-framework.php:1626
+msgid "Widget Section BG Color"
+msgstr ""
+
+#: includes/common-option-framework.php:1658
+msgid "Footer Copyright Info"
+msgstr ""
+
+#: includes/common-option-framework.php:1660
+msgid "Insert your copyright style"
+msgstr ""
+
+#: includes/common-option-framework.php:1667
+msgid "Copyright Style Layout"
+msgstr ""
+
+#: includes/common-option-framework.php:1670
+msgid "Copyright Style 1"
+msgstr ""
+
+#: includes/common-option-framework.php:1671
+msgid "Copyright Style 2"
+msgstr ""
+
+#: includes/common-option-framework.php:1672
+msgid "Copyright Style 3"
+msgstr ""
+
+#: includes/common-option-framework.php:1673
+msgid "Copyright Style 4"
+msgstr ""
+
+#: includes/common-option-framework.php:1680
+msgid "Copyright information"
+msgstr ""
+
+#: includes/common-option-framework.php:1682
+msgid "Copyright"
+msgstr ""
+
+#. Name of the theme
+#: includes/common-option-framework.php:1682
+msgid "common"
+msgstr ""
+
+#: includes/common-option-framework.php:1682
+msgid "All Rights Reserved."
+msgstr ""
+
+#: includes/common-option-framework.php:1692
+msgid "Copyright Text Color"
+msgstr ""
+
+#: includes/common-option-framework.php:1701
+msgid "Copyright Text Hover Color"
+msgstr ""
+
+#: includes/common-option-framework.php:1710
+msgid "Copyright Section BG Color"
+msgstr ""
+
+#: includes/common-option-framework.php:1749
+msgid "Customizer Only"
+msgstr ""
+
+#: includes/common-option-framework.php:1750
+msgid "This Section should be visible only in Customizer"
+msgstr ""
+
+#: includes/common-option-framework.php:1756
+msgid "Customizer Only Option"
+msgstr ""
+
+#: includes/common-option-framework.php:1757
+msgid "The subtitle is NOT visible in customizer"
+msgstr ""
+
+#: includes/common-option-framework.php:1758
+msgid "The field desc is NOT visible in customizer."
+msgstr ""
+
+#: includes/common-option-framework.php:1762
+msgid "Opt 1"
+msgstr ""
+
+#: includes/common-option-framework.php:1763
+msgid "Opt 2"
+msgstr ""
+
+#: includes/common-option-framework.php:1764
+msgid "Opt 3"
+msgstr ""
+
+#: includes/common-presets.php:10
+msgid "common - Home"
+msgstr ""
+
+#: includes/common-presets.php:16
+msgid "common - About Us"
+msgstr ""
+
+#: includes/common-presets.php:22
+msgid "common - Service"
+msgstr ""
+
+#: includes/common-presets.php:28
+msgid "common - Team"
+msgstr ""
+
+#: includes/common-presets.php:34
+msgid "common - Portfolio"
+msgstr ""
+
+#: includes/common-presets.php:40
+msgid "common - Contact"
+msgstr ""
+
+#: includes/common-tgm-activation.php:14
+msgid "Common Extension"
+msgstr ""
+
+#: includes/common-tgm-activation.php:22
+msgid "Contact form 7"
+msgstr ""
+
+#: includes/common-tgm-activation.php:27
+msgid "Cmb2"
+msgstr ""
+
+#: includes/common-tgm-activation.php:32
+msgid "Mailchimp for WP"
+msgstr ""
+
+#: includes/common-tgm-activation.php:37
+msgid "Redux-framework"
+msgstr ""
+
+#: includes/common-tgm-activation.php:42
+msgid "One Click Demo Import"
+msgstr ""
+
+#: partials/content-page.php:32 partials/content-single.php:56
+msgid "<span>Pages:</span>"
+msgstr ""
+
+#. Description of the theme
+msgid "Common One Page &amp; Multipage WordPress Theme"
+msgstr ""
+
+#. Author of the theme
+msgid "WPtradetheme"
+msgstr ""
