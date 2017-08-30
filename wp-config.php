@@ -43,7 +43,7 @@ else
 	define('DB_USER', 'db198078_amr');
 
 	/** MySQL database password */
-	define('DB_PASSWORD', 'f1Wnr?#1bD');
+	define('DB_PASSWORD', 'f1Wnr?#1bD,');
 }
 
 
