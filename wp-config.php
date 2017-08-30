@@ -37,7 +37,7 @@ if($HTTP_HOST == 'localhost')
 else
 {
 	//Production
-	define('DB_NAME', 'southeast');
+	define('DB_NAME', 'db198078_southeast');
 
 	/** MySQL database username */
 	define('DB_USER', 'db198078_amr');
