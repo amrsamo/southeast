@@ -241,7 +241,7 @@ function common_inline_styles() {
 						width: {$lwidth};
 					}
 					.logo a{
-						margin-top:{$linheight};
+						
 					}
 					.mean-container .mean-bar::before{
 						{$mobile_image_sec}						
